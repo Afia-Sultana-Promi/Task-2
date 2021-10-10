@@ -9,7 +9,7 @@ public class Main {
             s1.display();
     }
 }
-/* Name   : Afia Sultana
+/* Name   : Afia Sultana Promi
    ID     : 2012020082
    Section: B
    Email  : cse_2012020082@lus.ac.bd
